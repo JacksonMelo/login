@@ -1,46 +1,37 @@
 # login
 Sistema de Login em PHP e Javascript
 
-# aula 11 - 19/11/2019
+
+
+# AULA 11 - 19/11/19
 - Geração de nova senha
-
-# AULA 10 - 18/11/2019
-- Preparação de geração de uma nova senha
-
-<<<<<<< HEAD
-# AULA 09 - 22/10/2019
-=======
-# AULA 10 - 19/11/19
--
--
 
 # AULA 10 - 18/11/19
 - Atualização do Banco de Dados
 - Inclusão dos campos token e TempoDeVida
 # AULA 09 - 22/10/19
->>>>>>> 8bc9dbeb139b8b7f0880ffdc064e2d219a749743
 - Autenticação do usuário
 
-# aula 08 - 21/10/2019
+# aula 08 - 21/10/19
 - Autenticação do sistema
 
-# aula 07 - 18/10/2019
+# aula 07 - 18/10/19
 - Início da autenticação do sistema
 
-# aula 06 - 15/10/2019
+# aula 06 - 15/10/19
 - Persistênciia de dados no banco de dados
 
-# aula 05 - 07/10/2019
+# aula 05 - 07/10/19
 - Envio de dados do Front-end para o Back-end, 
 - métodos GET e POST.
 
-# aula 04 - 01/10/2019
+# aula 04 - 01/10/19
 - Validação com HTML5
 - Validação dos campos com jQuery validate
 
 
 
-# aula 03 - 24/09/2019
+# aula 03 - 24/09/19
 - Formulário de Cadastro de novos usuários
 - ~Validação dos campos com jQuery validate~
 - Ocultar e Mostrar os formulários com jQuery
@@ -48,7 +39,7 @@ Sistema de Login em PHP e Javascript
 jQuery é uma biblioteca de funções javascript.
 
 
-# aula 02 - 24/09/2019
+# aula 02 - 24/09/19
 Layout Bootstrap para os formulários
 - Formulário de login 
 - Formulário de recuperação de senha
